@@ -1,0 +1,191 @@
+{
+  "organization": "CRUZADOS",
+  "idOrganization": 170,
+  "date": "26/04/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 159,
+    "percActivation": 32,
+    "numSteps": 17160832.0,
+    "numCalories": 293176.0,
+    "bettercoins": 142471.0,
+    "coverage": 14068694,
+    "percBettercoins": 0.766,
+    "numDonations": 364.0,
+    "numCauses": 1,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "UltimateGiver",
+    "perc_level": 10.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      51,
+      62,
+      213,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      159,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      32,
+      34,
+      63,
+      8,
+      54
+    ],
+    "allOrganizations": [
+      72,
+      18,
+      63,
+      11,
+      65
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Arboles": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Comida": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Ucrania": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Generic": {
+      "quantity": 356,
+      "cause": [
+        "Cruzados for Renca"
+      ],
+      "idCause": [
+        22
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 11440,
+    "message_year": "Tu organización ha recorrido el 54% de la Muralla China. ¡Le faltan 9.559 kilómetros para recorrerla completa!",
+    "donations": 0,
+    "min_meditation": 596.0,
+    "routine_activity": "1035"
+  },
+  "manual_habits": 3,
+  "bettertogether": {
+    "total": 26,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 170,
+        "freq": 8,
+        "perc": 31.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 170,
+        "freq": 8,
+        "perc": 31.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 170,
+        "freq": 4,
+        "perc": 15.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 170,
+        "freq": 6,
+        "perc": 23.0
+      }
+    ]
+  }
+}

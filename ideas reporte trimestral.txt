@@ -1,0 +1,83 @@
+pasos:
+  cuanto ha caminado y cuanto le falta para llegar a x lugar
+
+
+donaciones:
+  representación visual de cuanto ha donado (ej si dona arboles mostrar como la cantidad de arboles en forma de bosque)
+
+interactividad:
+  preguntarle cosas al lector
+  clicks para cambiar de sección
+  en lugar de un "ver mas" que sea una pregunta
+  
+
+mejorar lectura:
+  que aparezcan las cosas por secciones separadas
+
+
+Reunion ideas Q4
+- Enfocarse en pasos y definir rango de pasos para definir la frase en habitos saludables
+- Enfocarse solo en pasos
+- sacar la primera semana de enero
+- empezar a desarrollar las ultimas dos semanas de diciembre
+
+Cosas que arreglar
+- en como esta tu organizacion promedio empresas y no recomendado
+- fondo blanco
+- no poner boot enviar en mejor mes y solo seleccionar
+- tooltip en el gráfico de los meses
+- seccion para la teleton
+- cambiar mejor dia de la semana
+- tener un boton para elegir otro mes
+- temática fin de año mensaje de fin de año
+- marcaje: scroll, click de meses, tiempo en pantalla, descargar pdf, click en el grafico 360, 
+
+Logos
+- dos empresas que tienen mal el logo.
+- hacer una tarea en asana de marketing
+
+Codigo
+- Preguntarle a bianca por instafit para el reporte sipuedo hacer la query al dw o neceisto algo mas
+- cambiar query de donaciones en impacto
+- ojo con other y teleton en el codigo que mando por slack
+- eliminar total
+- ojo con empresa que no tiene permitido donar otras cosas santander,cruzados
+- cambiar querys porque todas estan con pk dim contract= 2. Como son datos anuales en vez de status=2 fecha date_exchange
+
+- Subir excel al DW 
+- Ordenar los datos
+- agregar id_org , fecha_envio, periodo: Q4 2021
+- dim admins: id, nombre, correo, id_org
+
+- 
+
+Cosas que preguntar:
+- que es out : out=['GSC','P&G CHILE','P&G COLOMBIA','P&G PERU','SCHUTZ','SAMSUNG_PROFESORES','LMK','SAMSUNG_PROMO']: empresas a las que no se les manda la cosa, preguntare a julian o jose diaz cuales son
+- en first onboarding que es WHERE dc.date_end >'2021-09-30': fin del Q cambiar a {date_end_quarter}, contar cuantas personas hicieron onboarding en x dia por organizacion
+- que es exactamente cov_feb y cov_jan y por que tienen esas fechas si es solo febrero y enero
+- por que en activities el val_steps toene que ser menor a una fecha si no es una fecha es la fecha que se hizo el ultimo registro de pasos????
+- same para bettercoins
+- que son los excels: instafit_file, cluster_file, last_dir
+
+- en el grafico 360 si pongo organization=none me da el promedio de todo(?)
+
+12:11
+pasos -> fa.val_steps <= dc.date_end
+12:12
+donations -> fe.date_exchange <= dc.date_end
+12:12
+btc -> fb.val_btg_points <= dc.date_end
+
+
+Checklist:
+logos: proceso
+que empresas van: pedido
+jsons: proceso
+enviar logos a nelson: no
+
+
+Tests:
+274165: inactivo, agreement: BR-BET-BET-01
+162778: activo, agreement: CL-BUR-BUR-01
+161602: inactivo, agreement: CL-BUR-BUR-01
+162778: activo, agreement: CL-BUR-BUR-01

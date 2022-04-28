@@ -1,0 +1,223 @@
+{
+  "organization": "CSD",
+  "idOrganization": 607,
+  "date": "20/01/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 4,
+    "percActivation": 100,
+    "numSteps": 691918.0,
+    "numCalories": 926716.0,
+    "bettercoins": 9330.0,
+    "coverage": 871344,
+    "percBettercoins": 0.74,
+    "numDonations": 23.0,
+    "numCauses": 5,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "Giver",
+    "perc_level": 25.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      4,
+      148,
+      134,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      4,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      100,
+      82,
+      32,
+      0,
+      36
+    ],
+    "allOrganizations": [
+      73,
+      28,
+      57,
+      16,
+      81
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 7,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 6,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 6,
+      "cause": [
+        "Against child malnutrition in Haiti",
+        "Feed a child in Venezuela"
+      ],
+      "idCause": [
+        20,
+        13
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ],
+    "activation": [
+      {
+        "partner": "Vida Security",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 1
+      },
+      {
+        "partner": "Teledoc",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 2
+      },
+      {
+        "partner": "The Big Know",
+        "isIncluded": true,
+        "percentage": 25,
+        "idPartner": 6
+      },
+      {
+        "partner": "Instafit",
+        "isIncluded": true,
+        "percentage": 0,
+        "idPartner": 3
+      },
+      {
+        "partner": "Puramente",
+        "isIncluded": true,
+        "percentage": 0,
+        "idPartner": 4
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 691918.0,
+    "message_year": "Tu organización ha recorrido el 17% del camino entre Santiago y Río de Janeiro. ¡Le faltan 2.472 kilómetros para llegar!",
+    "best_month": {
+      "month": "Octubre",
+      "steps": 192319,
+      "message": "Tu organización completó 4 maratones este mes",
+      "numActivities": 27,
+      "meditationMin": 0,
+      "numMeals": 4
+    },
+    "all_months": {
+      "September": "4",
+      "October": "9",
+      "November": "6",
+      "December": "4"
+    }
+  },
+  "teleton": {
+    "num_donations": "4",
+    "bettercoins": "1200"
+  },
+  "bettertogether": {
+    "total": 2,
+    "clusters": [
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 607,
+        "freq": 1,
+        "perc": 50.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 607,
+        "freq": 1,
+        "perc": 50.0
+      }
+    ]
+  }
+}

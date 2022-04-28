@@ -1,0 +1,202 @@
+{
+  "organization": "CORP. E. DAYCA",
+  "idOrganization": 388,
+  "date": "20/01/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 9,
+    "percActivation": 44,
+    "numSteps": 372238.0,
+    "numCalories": 0.0,
+    "bettercoins": 4724.0,
+    "coverage": 365338,
+    "percBettercoins": 0.318,
+    "numDonations": 5.0,
+    "numCauses": 2,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "Rookie",
+    "perc_level": 100.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      4,
+      0,
+      37,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      9,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      44,
+      0,
+      9,
+      0,
+      5
+    ],
+    "allOrganizations": [
+      73,
+      28,
+      57,
+      16,
+      81
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 1,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Comida": {
+      "quantity": 4,
+      "cause": [
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        21
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ],
+    "activation": [
+      {
+        "partner": "Vida Security",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 1
+      },
+      {
+        "partner": "Teledoc",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 2
+      },
+      {
+        "partner": "The Big Know",
+        "isIncluded": true,
+        "percentage": 0,
+        "idPartner": 6
+      },
+      {
+        "partner": "Instafit",
+        "isIncluded": true,
+        "percentage": 0,
+        "idPartner": 3
+      },
+      {
+        "partner": "Puramente",
+        "isIncluded": true,
+        "percentage": 0,
+        "idPartner": 4
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 372238.0,
+    "message_year": "Tu organización ha recorrido el 9% del camino entre Santiago y Río de Janeiro. ¡Le faltan 2.716 kilómetros para llegar!",
+    "best_month": {
+      "month": "Julio",
+      "steps": 56346,
+      "message": "Tu organización completó 1 maratón este mes",
+      "numActivities": 0,
+      "meditationMin": 0,
+      "numMeals": 3
+    },
+    "all_months": {
+      "July": "4",
+      "September": "1"
+    }
+  },
+  "teleton": {
+    "num_donations": 0,
+    "bettercoins": 0
+  },
+  "bettertogether": {
+    "total": 0,
+    "clusters": []
+  }
+}

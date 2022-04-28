@@ -1,0 +1,207 @@
+{
+  "organization": "ADECCO",
+  "idOrganization": 598,
+  "date": "27/04/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 344,
+    "percActivation": 81,
+    "numSteps": 44884992.0,
+    "numCalories": 306792.0,
+    "bettercoins": 419077.0,
+    "coverage": 37307674,
+    "percBettercoins": 0.632,
+    "numDonations": 883.0,
+    "numCauses": 6,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "Giver",
+    "perc_level": 19.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      279,
+      23,
+      126,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      344,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      81,
+      13,
+      37,
+      4,
+      29
+    ],
+    "allOrganizations": [
+      72,
+      18,
+      63,
+      11,
+      65
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 190,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 214,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 458,
+      "cause": [
+        "Feed a child in Venezuela",
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        13,
+        20,
+        21
+      ],
+      "hasDonation": true
+    },
+    "Ucrania": {
+      "quantity": 21,
+      "cause": [
+        "Let's support Ukraine"
+      ],
+      "idCause": [
+        33
+      ],
+      "hasDonation": true
+    },
+    "Generic": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 29923,
+    "message_year": "Tu organización ha recorrido el 74% de una vuelta al mundo. ¡Le faltan 10.151 kilómetros para dar una vuelta completa!",
+    "donations": "458",
+    "min_meditation": 1290.0,
+    "routine_activity": "1398"
+  },
+  "manual_habits": 61,
+  "bettertogether": {
+    "total": 132,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 598,
+        "freq": 91,
+        "perc": 69.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 598,
+        "freq": 22,
+        "perc": 17.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 598,
+        "freq": 16,
+        "perc": 12.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 598,
+        "freq": 3,
+        "perc": 2.0
+      }
+    ]
+  }
+}

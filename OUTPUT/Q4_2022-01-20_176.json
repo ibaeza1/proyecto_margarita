@@ -1,0 +1,226 @@
+{
+  "organization": "MEDANOSO",
+  "idOrganization": 176,
+  "date": "20/01/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 15,
+    "percActivation": 73,
+    "numSteps": 5447305.0,
+    "numCalories": 29243.0,
+    "bettercoins": 38229.0,
+    "coverage": 4298936,
+    "percBettercoins": 0.793,
+    "numDonations": 101.0,
+    "numCauses": 4,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "SuperGiver",
+    "perc_level": 15.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      11,
+      16,
+      90,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      15,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      73,
+      8,
+      21,
+      0,
+      26
+    ],
+    "allOrganizations": [
+      73,
+      28,
+      57,
+      16,
+      81
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 1,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 1,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 99,
+      "cause": [
+        "Against child malnutrition in Haiti",
+        "Feed a child in Venezuela"
+      ],
+      "idCause": [
+        20,
+        13
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ],
+    "activation": [
+      {
+        "partner": "Vida Security",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 1
+      },
+      {
+        "partner": "Teledoc",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 2
+      },
+      {
+        "partner": "The Big Know",
+        "isIncluded": true,
+        "percentage": 6,
+        "idPartner": 6
+      },
+      {
+        "partner": "Instafit",
+        "isIncluded": true,
+        "percentage": 0,
+        "idPartner": 3
+      },
+      {
+        "partner": "Puramente",
+        "isIncluded": true,
+        "percentage": 0,
+        "idPartner": 4
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 5447305.0,
+    "message_year": "Tu organización ha recorrido el 19% de la Muralla China. ¡Le faltan 16.848 kilómetros para recorrerla completa!",
+    "best_month": {
+      "month": "Agosto",
+      "steps": 745041,
+      "message": "Tu organización completó 17 maratones este mes",
+      "numActivities": 19,
+      "meditationMin": 0,
+      "numMeals": 26
+    },
+    "all_months": {
+      "May": "15",
+      "June": "20",
+      "July": "7",
+      "August": "26",
+      "September": "11",
+      "October": "16",
+      "December": "6"
+    }
+  },
+  "teleton": {
+    "num_donations": 0,
+    "bettercoins": 0
+  },
+  "bettertogether": {
+    "total": 2,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 176,
+        "freq": 1,
+        "perc": 50.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 176,
+        "freq": 1,
+        "perc": 50.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "organization": "I-SEP INGENIEROS",
+  "idOrganization": 413,
+  "date": "27/04/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 68,
+    "percActivation": 82,
+    "numSteps": 7328842.0,
+    "numCalories": 42386.0,
+    "bettercoins": 62305.0,
+    "coverage": 5993307,
+    "percBettercoins": 0.746,
+    "numDonations": 155.0,
+    "numCauses": 5,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "Giver",
+    "perc_level": 35.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      56,
+      10,
+      83,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      68,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      82,
+      5,
+      24,
+      0,
+      21
+    ],
+    "allOrganizations": [
+      72,
+      18,
+      63,
+      11,
+      65
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 30,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 54,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 71,
+      "cause": [
+        "Feed a child in Venezuela",
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        13,
+        20,
+        21
+      ],
+      "hasDonation": true
+    },
+    "Ucrania": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Generic": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 4885,
+    "message_year": "Tu organización ha recorrido el 23% de la Muralla China. ¡Le faltan 16.114 kilómetros para recorrerla completa!",
+    "donations": "71",
+    "min_meditation": 42.0,
+    "routine_activity": "239"
+  },
+  "manual_habits": 5,
+  "bettertogether": {
+    "total": 24,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 413,
+        "freq": 16,
+        "perc": 67.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 413,
+        "freq": 3,
+        "perc": 12.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 413,
+        "freq": 5,
+        "perc": 21.0
+      }
+    ]
+  }
+}

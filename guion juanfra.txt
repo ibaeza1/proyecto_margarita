@@ -1,0 +1,22 @@
+- Preguntar en que esta todo el mundo
+- Preguntar especialmente que onda diseño si pensaron en algo o tienen alguna idea definida
+	- Lo que digan si tienen alguna idea y la quieres vetar altiro confio en ti pero si
+	  no es tan terrible o se puede desarrollar me la cuentas el jueves que llego en la mañana para discutirla
+- Decir que los colores tienen que cambiarse a los actuales y todas las ilustraciones deben morir.
+	- Hay que encontrar otra cosa que reemplace a las ilustraciones, 
+	  no se si eso deberia verlo 100% diseño onda que a ellos se les ocurra que poner o tambien deberia verlo yo pero puedo pensar en algun diseño cul
+- Hay que hacer el reporte en portugues e ingles.
+
+Brainstorming de ideas:
+- Los datos tienen que conectarse mas:
+	- Creo que una buena idea es reagruparlos para que tengan sentido, la idea que tuviste de 
+	  que tengan sentido con el lema de la empresa me gusta. Si a todos les gusta esa idea entonces 
+	  yo organizo los datos para que vayan en linea con cada eje.
+- Lo que habiamos hablado tambien de ver el progreso en el tiempo. 
+  Como es trimestral, ver los promedios semanales (btc ganadas, pasos, donaciones, etc)
+- Tambien se me habia ocurrido hacer como una conexion entre: pasos/actividad -> bettercoins -> donaciones.
+  Onda que no sea como mostrar numeros desconectados como el resumen de arriba si no mostrarlos mas 'hilados'.
+  	- Se me ocurre quizas hacer como un 'camino' que muestre la conexion entre los datos.
+		-Ejemplo de relato: Este trimestre tuviste esta actividad: X pasos, Y minutos de meditacion, Z calorias quemadas. Esto produjo A bettercoins y con esto 
+		 pudiste hacer B cantidad de donaciones a todas estas causas. (No se si se entendio la diferencia y la idea jeje)
+- Tantear que tanto estan dispuestos a cambiar el reporte y recalcar que no seria cambiar tanto si no reagrupar datos.

@@ -1,0 +1,1878 @@
+{
+  "organization": "Banco Falabella",
+  "idOrganization": 864,
+  "date": "25/04/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 2918,
+    "percActivation": 22,
+    "numSteps": 53790117.0,
+    "numCalories": 534736.0,
+    "bettercoins": 412203.0,
+    "coverage": 33031715,
+    "percBettercoins": 0.427,
+    "numDonations": 587.0,
+    "numCauses": 7,
+    "message": "Están dentro de las 10 empresas que más han quemado calorías. Tu equipo es uno de los más activos y su impacto es el reflejo de su esfuerzo.",
+    "level": "Rookie",
+    "perc_level": 98.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      652,
+      56,
+      158,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      2918,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      22,
+      31,
+      47,
+      3,
+      38
+    ],
+    "allOrganizations": [
+      72,
+      18,
+      63,
+      11,
+      65
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 18,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 10,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 9,
+      "cause": [
+        "Feed a child in Venezuela",
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        13,
+        20,
+        21
+      ],
+      "hasDonation": true
+    },
+    "Ucrania": {
+      "quantity": 550,
+      "cause": [
+        "Inclusive financial education",
+        "Education for all children"
+      ],
+      "idCause": [
+        31,
+        32
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 53790117.0,
+    "message_year": "Tu organización ha recorrido el 10% del camino entre la Tierra y la Luna. ¡Le faltan 343.401 kilómetros para llegar!",
+    "donations": "9",
+    "total_donations": "9232",
+    "min_meditation": 35198.0,
+    "routine_activity": "13060"
+  },
+  "manual_habits": 112,
+  "bettertogether": {
+    "total": 26865,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 864,
+        "freq": 141,
+        "perc": 1.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 864,
+        "freq": 21,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 864,
+        "freq": 41,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 864,
+        "freq": 10,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 864,
+        "freq": 1,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 864,
+        "freq": 69,
+        "perc": 0.0
+      }
+    ]
+  }
+}

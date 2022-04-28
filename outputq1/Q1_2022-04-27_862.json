@@ -1,0 +1,199 @@
+{
+  "organization": "FIF",
+  "idOrganization": 862,
+  "date": "27/04/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 1273,
+    "percActivation": 20,
+    "numSteps": 30205452.0,
+    "numCalories": 378305.0,
+    "bettercoins": 229124.0,
+    "coverage": 11444475,
+    "percBettercoins": 0.405,
+    "numDonations": 309.0,
+    "numCauses": 5,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "Rookie",
+    "perc_level": 96.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      259,
+      87,
+      198,
+      1,
+      0
+    ],
+    "sugestedValue": [
+      1273,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      20,
+      48,
+      59,
+      14,
+      45
+    ],
+    "allOrganizations": [
+      72,
+      18,
+      63,
+      11,
+      65
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Arboles": {
+      "quantity": 4,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 3,
+      "cause": [
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        21
+      ],
+      "hasDonation": true
+    },
+    "Ucrania": {
+      "quantity": 3,
+      "cause": [
+        "Let's support Ukraine"
+      ],
+      "idCause": [
+        33
+      ],
+      "hasDonation": true
+    },
+    "Generic": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 20136,
+    "message_year": "Tu organización ha recorrido el 95% de la Muralla China. ¡Le faltan 863 kilómetros para recorrerla completa!",
+    "donations": "3",
+    "min_meditation": 967.0,
+    "routine_activity": "1791"
+  },
+  "manual_habits": 44,
+  "bettertogether": {
+    "total": 119,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 862,
+        "freq": 66,
+        "perc": 55.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 862,
+        "freq": 20,
+        "perc": 17.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 862,
+        "freq": 27,
+        "perc": 23.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 862,
+        "freq": 6,
+        "perc": 5.0
+      }
+    ]
+  }
+}

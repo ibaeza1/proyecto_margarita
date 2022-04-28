@@ -1,0 +1,227 @@
+{
+  "organization": "K+N Arg & Uru",
+  "idOrganization": 696,
+  "date": "20/01/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 240,
+    "percActivation": 49,
+    "numSteps": 17959175.0,
+    "numCalories": 243499.0,
+    "bettercoins": 187425.0,
+    "coverage": 0,
+    "percBettercoins": 0.711,
+    "numDonations": 444.0,
+    "numCauses": 2,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "Giver",
+    "perc_level": 11.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      118,
+      37,
+      150,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      240,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      49,
+      21,
+      35,
+      5,
+      46
+    ],
+    "allOrganizations": [
+      73,
+      28,
+      57,
+      16,
+      81
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 224,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 220,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ],
+    "activation": [
+      {
+        "partner": "Vida Security",
+        "isIncluded": false,
+        "percentage": 100,
+        "idPartner": 1
+      },
+      {
+        "partner": "Teledoc",
+        "isIncluded": false,
+        "percentage": 100,
+        "idPartner": 2
+      },
+      {
+        "partner": "The Big Know",
+        "isIncluded": true,
+        "percentage": 12,
+        "idPartner": 6
+      },
+      {
+        "partner": "Instafit",
+        "isIncluded": true,
+        "percentage": 0,
+        "idPartner": 3
+      },
+      {
+        "partner": "Puramente",
+        "isIncluded": true,
+        "percentage": 4,
+        "idPartner": 4
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 17959175.0,
+    "message_year": "Tu organización ha recorrido el 65% de la Muralla China. ¡Le faltan 7.311 kilómetros para recorrerla completa!",
+    "best_month": {
+      "month": "Noviembre",
+      "steps": 9302526,
+      "message": "Tu organización recorrió 6 veces el trayecto de Santiago a Buenos Aires este mes",
+      "numActivities": 750,
+      "meditationMin": 433,
+      "numMeals": 0
+    },
+    "all_months": {
+      "November": "240",
+      "December": "204"
+    }
+  },
+  "teleton": {
+    "num_donations": 0,
+    "bettercoins": 0
+  },
+  "bettertogether": {
+    "total": 89,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 696,
+        "freq": 59,
+        "perc": 66.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 696,
+        "freq": 8,
+        "perc": 9.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 696,
+        "freq": 19,
+        "perc": 21.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 696,
+        "freq": 3,
+        "perc": 3.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "organization": "SANTANDER",
+  "idOrganization": 115,
+  "date": "20/01/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 9645,
+    "percActivation": 43,
+    "numSteps": 1989837976.0,
+    "numCalories": 31022547.0,
+    "bettercoins": 22418739.0,
+    "coverage": 1865923524,
+    "percBettercoins": 0.669,
+    "numDonations": 49012.0,
+    "numCauses": 2,
+    "message": "Están dentro de las 10 empresas que más ha meditado. Mentes en calma, ideas brillantes. ",
+    "level": "UltimateGiver",
+    "perc_level": 5.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      4191,
+      29,
+      104,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      9645,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      43,
+      16,
+      24,
+      7,
+      30
+    ],
+    "allOrganizations": [
+      73,
+      28,
+      57,
+      16,
+      81
+    ]
+  },
+  "impact": {
+    "Otro": {
+      "quantity": 44681,
+      "cause": [
+        "Santander supports education"
+      ],
+      "idCause": [
+        19
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ],
+    "activation": [
+      {
+        "partner": "Vida Security",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 1
+      },
+      {
+        "partner": "Teledoc",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 2
+      },
+      {
+        "partner": "The Big Know",
+        "isIncluded": true,
+        "percentage": 6,
+        "idPartner": 6
+      },
+      {
+        "partner": "Instafit",
+        "isIncluded": true,
+        "percentage": 5,
+        "idPartner": 3
+      },
+      {
+        "partner": "Puramente",
+        "isIncluded": true,
+        "percentage": 3,
+        "idPartner": 4
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 1989837976.0,
+    "message_year": "¡Felicidades! Tu organización ha dado una vuelta completa al Sol. ¡Esos son 1.400.000 kilómetros!",
+    "best_month": {
+      "month": "Septiembre",
+      "steps": 212007599,
+      "message": "Tu organización recorrió 10 veces el trayecto de Chile a China este mes",
+      "numActivities": 12315,
+      "meditationMin": 17450,
+      "numMeals": 0
+    },
+    "all_months": {
+      "February": "1209",
+      "March": "3234",
+      "April": "3983",
+      "May": "4354",
+      "June": "4338",
+      "July": "4079",
+      "August": "4537",
+      "September": "6245",
+      "October": "5582",
+      "November": "5720",
+      "December": "5731"
+    }
+  },
+  "teleton": {
+    "num_donations": "4328",
+    "bettercoins": "1298400"
+  },
+  "bettertogether": {
+    "total": 1467,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 115,
+        "freq": 915,
+        "perc": 62.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 115,
+        "freq": 244,
+        "perc": 17.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 115,
+        "freq": 221,
+        "perc": 15.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 115,
+        "freq": 87,
+        "perc": 6.0
+      }
+    ]
+  }
+}

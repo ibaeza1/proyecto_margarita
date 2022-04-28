@@ -1,0 +1,1798 @@
+{
+  "organization": "BHP",
+  "idOrganization": 614,
+  "date": "25/04/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 1315,
+    "percActivation": 24,
+    "numSteps": 66088281.0,
+    "numCalories": 1277336.0,
+    "bettercoins": 577914.0,
+    "coverage": 46443837,
+    "percBettercoins": 0.708,
+    "numDonations": 1363.0,
+    "numCauses": 6,
+    "message": "Están dentro de las 10 empresas que más ha meditado. Mentes en calma, ideas brillantes. ",
+    "level": "Giver",
+    "perc_level": 21.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      320,
+      55,
+      161,
+      2,
+      0
+    ],
+    "sugestedValue": [
+      1315,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      24,
+      30,
+      48,
+      21,
+      40
+    ],
+    "allOrganizations": [
+      72,
+      18,
+      63,
+      11,
+      65
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 314,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 310,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 723,
+      "cause": [
+        "Feed a child in Venezuela",
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        13,
+        20,
+        21
+      ],
+      "hasDonation": true
+    },
+    "Ucrania": {
+      "quantity": 16,
+      "cause": [
+        "Let's support Ukraine"
+      ],
+      "idCause": [
+        33
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 66088281.0,
+    "message_year": "Tu organización ha recorrido el 13% del camino entre la Tierra y la Luna. ¡Le faltan 334.027 kilómetros para llegar!",
+    "donations": "723",
+    "total_donations": "9232",
+    "min_meditation": 35198.0,
+    "routine_activity": "13060"
+  },
+  "manual_habits": 33,
+  "bettertogether": {
+    "total": 19908,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 614,
+        "freq": 79,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 614,
+        "freq": 22,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 614,
+        "freq": 38,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 614,
+        "freq": 13,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 614,
+        "freq": 107,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 614,
+        "freq": 11,
+        "perc": 0.0
+      }
+    ]
+  }
+}

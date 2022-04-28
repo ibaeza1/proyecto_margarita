@@ -1,0 +1,234 @@
+{
+  "organization": "KUEHNE+NAGEL",
+  "idOrganization": 181,
+  "date": "20/01/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 299,
+    "percActivation": 64,
+    "numSteps": 163102454.0,
+    "numCalories": 2730470.0,
+    "bettercoins": 1468792.0,
+    "coverage": 148871408,
+    "percBettercoins": 0.791,
+    "numDonations": 3816.0,
+    "numCauses": 3,
+    "message": "Están dentro de las 10 empresas que más  cobertura de seguro de vida han acumulado. Su protección financiera es tranquilidad para ellos y sus seres queridos. ",
+    "level": "UltimateGiver",
+    "perc_level": 7.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      194,
+      69,
+      222,
+      1,
+      0
+    ],
+    "sugestedValue": [
+      299,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      64,
+      38,
+      53,
+      18,
+      59
+    ],
+    "allOrganizations": [
+      73,
+      28,
+      57,
+      16,
+      81
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 1421,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 2209,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ],
+    "activation": [
+      {
+        "partner": "Vida Security",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 1
+      },
+      {
+        "partner": "Teledoc",
+        "isIncluded": false,
+        "percentage": 100,
+        "idPartner": 2
+      },
+      {
+        "partner": "The Big Know",
+        "isIncluded": true,
+        "percentage": 14,
+        "idPartner": 6
+      },
+      {
+        "partner": "Instafit",
+        "isIncluded": true,
+        "percentage": 5,
+        "idPartner": 3
+      },
+      {
+        "partner": "Puramente",
+        "isIncluded": true,
+        "percentage": 6,
+        "idPartner": 4
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 163102454.0,
+    "message_year": "Tu organización ha recorrido el 32% del camino entre la Tierra y la Luna. ¡Le faltan 260.084 kilómetros para llegar!",
+    "best_month": {
+      "month": "Junio",
+      "steps": 22127941,
+      "message": "Tu organización recorrió 1 vez el trayecto de Chile a China este mes",
+      "numActivities": 1696,
+      "meditationMin": 1624,
+      "numMeals": 0
+    },
+    "all_months": {
+      "April": "1",
+      "May": "421",
+      "June": "531",
+      "July": "488",
+      "August": "474",
+      "September": "440",
+      "October": "439",
+      "November": "510",
+      "December": "512"
+    }
+  },
+  "teleton": {
+    "num_donations": "186",
+    "bettercoins": "55800"
+  },
+  "bettertogether": {
+    "total": 106,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 181,
+        "freq": 48,
+        "perc": 45.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 181,
+        "freq": 29,
+        "perc": 27.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 181,
+        "freq": 19,
+        "perc": 18.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 181,
+        "freq": 10,
+        "perc": 9.0
+      }
+    ]
+  }
+}

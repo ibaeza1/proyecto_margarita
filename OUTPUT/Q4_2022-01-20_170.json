@@ -1,0 +1,230 @@
+{
+  "organization": "CRUZADOS",
+  "idOrganization": 170,
+  "date": "20/01/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 160,
+    "percActivation": 32,
+    "numSteps": 50918685.0,
+    "numCalories": 915697.0,
+    "bettercoins": 415360.0,
+    "coverage": 41909812,
+    "percBettercoins": 0.754,
+    "numDonations": 1031.0,
+    "numCauses": 2,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "UltimateGiver",
+    "perc_level": 9.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      52,
+      77,
+      285,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      160,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      32,
+      43,
+      67,
+      3,
+      72
+    ],
+    "allOrganizations": [
+      73,
+      28,
+      57,
+      16,
+      81
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Arboles": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Comida": {
+      "quantity": 952,
+      "cause": [
+        "Cruzados for Renca"
+      ],
+      "idCause": [
+        22
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ],
+    "activation": [
+      {
+        "partner": "Vida Security",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 1
+      },
+      {
+        "partner": "Teledoc",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 2
+      },
+      {
+        "partner": "The Big Know",
+        "isIncluded": true,
+        "percentage": 3,
+        "idPartner": 6
+      },
+      {
+        "partner": "Instafit",
+        "isIncluded": true,
+        "percentage": 1,
+        "idPartner": 3
+      },
+      {
+        "partner": "Puramente",
+        "isIncluded": true,
+        "percentage": 1,
+        "idPartner": 4
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 50918685.0,
+    "message_year": "Tu organización ha recorrido el 96% de una vuelta al mundo. ¡Le faltan 1.265 kilómetros para dar una vuelta completa!",
+    "best_month": {
+      "month": "Septiembre",
+      "steps": 7791545,
+      "message": "Tu organización recorrió 5 veces el trayecto de Santiago a Buenos Aires este mes",
+      "numActivities": 365,
+      "meditationMin": 115,
+      "numMeals": 246
+    },
+    "all_months": {
+      "April": "12",
+      "May": "98",
+      "June": "72",
+      "July": "81",
+      "August": "98",
+      "September": "246",
+      "October": "148",
+      "November": "108",
+      "December": "168"
+    }
+  },
+  "teleton": {
+    "num_donations": "79",
+    "bettercoins": "23700"
+  },
+  "bettertogether": {
+    "total": 32,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 170,
+        "freq": 12,
+        "perc": 38.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 170,
+        "freq": 10,
+        "perc": 31.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 170,
+        "freq": 5,
+        "perc": 16.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 170,
+        "freq": 5,
+        "perc": 16.0
+      }
+    ]
+  }
+}

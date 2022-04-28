@@ -1,0 +1,412 @@
+{
+  "organization": "23People",
+  "idOrganization": 883,
+  "date": "25/04/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 81,
+    "percActivation": 59,
+    "numSteps": 4903962.0,
+    "numCalories": 43747.0,
+    "bettercoins": 57400.0,
+    "coverage": 4600727,
+    "percBettercoins": 0.533,
+    "numDonations": 102.0,
+    "numCauses": 6,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "Rookie",
+    "perc_level": 100.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      48,
+      20,
+      114,
+      1,
+      0
+    ],
+    "sugestedValue": [
+      81,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      59,
+      11,
+      34,
+      18,
+      29
+    ],
+    "allOrganizations": [
+      72,
+      18,
+      63,
+      11,
+      65
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 19,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 43,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 36,
+      "cause": [
+        "Feed a child in Venezuela",
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        13,
+        20,
+        21
+      ],
+      "hasDonation": true
+    },
+    "Ucrania": {
+      "quantity": 4,
+      "cause": [
+        "Let's support Ukraine"
+      ],
+      "idCause": [
+        33
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 4903962.0,
+    "message_year": "Tu organización ha recorrido el 17% de la Muralla China. ¡Le faltan 17.262 kilómetros para recorrerla completa!",
+    "donations": "36",
+    "total_donations": "9232",
+    "min_meditation": 35198.0,
+    "routine_activity": "13060"
+  },
+  "manual_habits": 12,
+  "bettertogether": {
+    "total": 823,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 883,
+        "freq": 28,
+        "perc": 3.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 883,
+        "freq": 2,
+        "perc": 0.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 883,
+        "freq": 2,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 883,
+        "freq": 3,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 883,
+        "freq": 3,
+        "perc": 0.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 883,
+        "freq": 3,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información",
+        "pk_dim_organization": 883,
+        "freq": 1,
+        "perc": 0.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 883,
+        "freq": 5,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 883,
+        "freq": 5,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 883,
+        "freq": 5,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 883,
+        "freq": 5,
+        "perc": 1.0
+      },
+      {
+        "labels": "Sin Información Suficiente",
+        "pk_dim_organization": 883,
+        "freq": 5,
+        "perc": 1.0
+      }
+    ]
+  }
+}

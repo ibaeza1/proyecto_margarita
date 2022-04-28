@@ -1,0 +1,244 @@
+{
+  "organization": "BABYTUTO",
+  "idOrganization": 28,
+  "date": "20/01/2022",
+  "period": "Q4 2021",
+  "summary": {
+    "numSuscribers": 28,
+    "percActivation": 71,
+    "numSteps": 14450239.0,
+    "numCalories": 278001.0,
+    "bettercoins": 146353.0,
+    "coverage": 14366949,
+    "percBettercoins": 0.739,
+    "numDonations": 354.0,
+    "numCauses": 6,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "UltimateGiver",
+    "perc_level": 5.0
+  },
+  "vision360": {
+    "metrics": [
+      "Porcentaje de enrolamiento",
+      "Minutos de actividad física",
+      "Bettercoins ganadas",
+      "Minutos de meditación",
+      "Cantidad de donaciones"
+    ],
+    "units": [
+      "%",
+      "minutos semanales por colaborador",
+      "bettercoins semanales por colaborador",
+      "minutos semanales por colaborador",
+      "donaciones semanales por colaborador"
+    ],
+    "achievedValue": [
+      20,
+      55,
+      154,
+      0,
+      0
+    ],
+    "sugestedValue": [
+      28,
+      180,
+      420,
+      10,
+      1
+    ],
+    "achievedPercentage": [
+      71,
+      30,
+      36,
+      0,
+      41
+    ],
+    "allOrganizations": [
+      73,
+      28,
+      57,
+      16,
+      81
+    ]
+  },
+  "impact": {
+    "Agua": {
+      "quantity": 55,
+      "cause": [
+        "Fight the water crisis"
+      ],
+      "idCause": [
+        17
+      ],
+      "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 21,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 252,
+      "cause": [
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank",
+        "Feed a child in Venezuela"
+      ],
+      "idCause": [
+        20,
+        21,
+        13
+      ],
+      "hasDonation": true
+    }
+  },
+  "benefits": {
+    "included": [
+      {
+        "nameBenefit": "Seguro de vida por fallecimiento natural",
+        "idBenefit": 1,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
+        "idBenefit": 2,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Seguro de invalidez accidental",
+        "idBenefit": 3,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Atención médica en línea 24/7",
+        "idBenefit": 4,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta psicológica en línea",
+        "idBenefit": 5,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Consulta nutricionista en línea",
+        "idBenefit": 6,
+        "isIncluded": false
+      },
+      {
+        "nameBenefit": "Asesoría de ahorro e inversión",
+        "idBenefit": 7,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Educación de bienestar",
+        "idBenefit": 8,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Entrenamiento en casa",
+        "idBenefit": 9,
+        "isIncluded": true
+      },
+      {
+        "nameBenefit": "Meditación y bienestar",
+        "idBenefit": 10,
+        "isIncluded": true
+      }
+    ],
+    "activation": [
+      {
+        "partner": "Vida Security",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 1
+      },
+      {
+        "partner": "Teledoc",
+        "isIncluded": true,
+        "percentage": 100,
+        "idPartner": 2
+      },
+      {
+        "partner": "The Big Know",
+        "isIncluded": true,
+        "percentage": 7,
+        "idPartner": 6
+      },
+      {
+        "partner": "Instafit",
+        "isIncluded": true,
+        "percentage": 10,
+        "idPartner": 3
+      },
+      {
+        "partner": "Puramente",
+        "isIncluded": true,
+        "percentage": 0,
+        "idPartner": 4
+      }
+    ]
+  },
+  "activities": {
+    "numSteps": 14450239.0,
+    "message_year": "Tu organización ha recorrido el 52% de la Muralla China. ¡Le faltan 9.986 kilómetros para recorrerla completa!",
+    "best_month": {
+      "month": "Julio",
+      "steps": 1821154,
+      "message": "Tu organización completó 43 maratones este mes",
+      "numActivities": 125,
+      "meditationMin": 0,
+      "numMeals": 40
+    },
+    "all_months": {
+      "February": "11",
+      "March": "16",
+      "April": "18",
+      "May": "8",
+      "June": "8",
+      "July": "67",
+      "August": "38",
+      "September": "47",
+      "October": "45",
+      "November": "51",
+      "December": "45"
+    }
+  },
+  "teleton": {
+    "num_donations": "26",
+    "bettercoins": "7800"
+  },
+  "bettertogether": {
+    "total": 8,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 28,
+        "freq": 2,
+        "perc": 25.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 28,
+        "freq": 1,
+        "perc": 12.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 28,
+        "freq": 2,
+        "perc": 25.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 28,
+        "freq": 3,
+        "perc": 38.0
+      }
+    ]
+  }
+}

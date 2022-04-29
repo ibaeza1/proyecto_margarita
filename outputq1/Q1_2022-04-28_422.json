@@ -1,21 +1,21 @@
 {
-  "organization": "Betterfly",
-  "idOrganization": 15,
-  "date": "26/04/2022",
-  "period": "Q4 2021",
+  "organization": "PRIETO ABOGADOS",
+  "idOrganization": 422,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 601,
-    "percActivation": 93,
-    "numSteps": 166634025.0,
-    "numCalories": 2916942.0,
-    "bettercoins": 1851314.0,
-    "coverage": 131008405,
-    "percBettercoins": 0.908,
-    "numDonations": 9232.0,
-    "numCauses": 9,
-    "message": "Están dentro de las 10 empresas que más ha meditado. Mentes en calma, ideas brillantes. ",
-    "level": "UltimateGiver",
-    "perc_level": 10.0
+    "numSuscribers": 68,
+    "percActivation": 55,
+    "numSteps": 10504677.0,
+    "numCalories": 177488.0,
+    "bettercoins": 97686.0,
+    "coverage": 9226887,
+    "percBettercoins": 0.838,
+    "numDonations": 273.0,
+    "numCauses": 5,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "SuperGiver",
+    "perc_level": 14.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      559,
-      95,
-      355,
-      7,
-      1
+      38,
+      48,
+      202,
+      0,
+      0
     ],
     "sugestedValue": [
-      601,
+      68,
       180,
       420,
       10,
       1
     ],
     "achievedPercentage": [
-      93,
-      53,
-      100,
-      75,
-      100
+      55,
+      27,
+      60,
+      8,
+      56
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 2449,
+      "quantity": 67,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 2823,
+      "quantity": 71,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,34 +83,24 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 3588,
+      "quantity": 135,
       "cause": [
         "Feed a child in Venezuela",
         "Against child malnutrition in Haiti",
-        "Chile's first food bank",
-        "Help a senior",
-        "Support Hospital Pequeno Príncipe",
-        "Whoever is hungry is in a hurry"
+        "Chile's first food bank"
       ],
       "idCause": [
         13,
         20,
-        21,
-        26,
-        29,
-        30
+        21
       ],
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 372,
-      "cause": [
-        "Let's support Ukraine"
-      ],
-      "idCause": [
-        33
-      ],
-      "hasDonation": true
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
     },
     "Generic": {
       "quantity": 0,
@@ -149,7 +139,7 @@
       {
         "nameBenefit": "Consulta nutricionista en línea",
         "idBenefit": 6,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
@@ -174,39 +164,39 @@
     ]
   },
   "activities": {
-    "numSteps": 111089,
-    "message_year": "Tu organización ha recorrido el 28% del camino entre la Tierra y la Luna. ¡Le faltan 273.310 kilómetros para llegar!",
-    "donations": "3588",
-    "min_meditation": 35198.0,
-    "routine_activity": "13060"
+    "numSteps": 7003,
+    "message_year": "Tu organización ha recorrido el 33% de la Muralla China. ¡Le faltan 13.996 kilómetros para recorrerla completa!",
+    "donations": "135",
+    "min_meditation": 408.0,
+    "routine_activity": "384"
   },
-  "manual_habits": 377,
+  "manual_habits": 0,
   "bettertogether": {
-    "total": 494,
+    "total": 19,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 15,
-        "freq": 226,
-        "perc": 46.0
+        "pk_dim_organization": 422,
+        "freq": 8,
+        "perc": 42.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 15,
-        "freq": 77,
-        "perc": 16.0
+        "pk_dim_organization": 422,
+        "freq": 2,
+        "perc": 11.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 15,
-        "freq": 162,
-        "perc": 33.0
+        "pk_dim_organization": 422,
+        "freq": 7,
+        "perc": 37.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 15,
-        "freq": 29,
-        "perc": 6.0
+        "pk_dim_organization": 422,
+        "freq": 2,
+        "perc": 11.0
       }
     ]
   }

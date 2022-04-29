@@ -1,21 +1,21 @@
 {
-  "organization": "Ocean Network Expres",
-  "idOrganization": 1191,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "WEBDOX",
+  "idOrganization": 397,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 124,
-    "percActivation": 37,
-    "numSteps": 5249881.0,
-    "numCalories": 56458.0,
-    "bettercoins": 47618.0,
-    "coverage": 3112163,
-    "percBettercoins": 0.504,
-    "numDonations": 80.0,
-    "numCauses": 6,
+    "numSuscribers": 121,
+    "percActivation": 57,
+    "numSteps": 14934951.0,
+    "numCalories": 132313.0,
+    "bettercoins": 146416.0,
+    "coverage": 7502824,
+    "percBettercoins": 0.697,
+    "numDonations": 340.0,
+    "numCauses": 5,
     "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
     "level": "SuperGiver",
-    "perc_level": 6.0
+    "perc_level": 12.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      46,
-      71,
-      239,
+      70,
+      28,
+      189,
       0,
       0
     ],
     "sugestedValue": [
-      124,
+      121,
       180,
       420,
       10,
       1
     ],
     "achievedPercentage": [
-      37,
-      39,
-      71,
-      1,
-      53
+      57,
+      15,
+      56,
+      5,
+      46
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 20,
+      "quantity": 109,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 26,
+      "quantity": 95,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,7 +83,7 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 33,
+      "quantity": 136,
       "cause": [
         "Feed a child in Venezuela",
         "Against child malnutrition in Haiti",
@@ -97,14 +97,10 @@
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 1,
-      "cause": [
-        "Let's support Ukraine"
-      ],
-      "idCause": [
-        33
-      ],
-      "hasDonation": true
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
     },
     "Generic": {
       "quantity": 0,
@@ -153,12 +149,12 @@
       {
         "nameBenefit": "Educación de bienestar",
         "idBenefit": 8,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Entrenamiento en casa",
         "idBenefit": 9,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Meditación y bienestar",
@@ -168,39 +164,39 @@
     ]
   },
   "activities": {
-    "numSteps": 3499,
-    "message_year": "Tu organización ha recorrido el 16% de la Muralla China. ¡Le faltan 17.500 kilómetros para recorrerla completa!",
-    "donations": "33",
-    "min_meditation": 19.0,
-    "routine_activity": "343"
+    "numSteps": 9956,
+    "message_year": "Tu organización ha recorrido el 47% de la Muralla China. ¡Le faltan 11.043 kilómetros para recorrerla completa!",
+    "donations": "136",
+    "min_meditation": 417.0,
+    "routine_activity": "639"
   },
-  "manual_habits": 8,
+  "manual_habits": 6,
   "bettertogether": {
-    "total": 26,
+    "total": 40,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 1191,
-        "freq": 13,
-        "perc": 50.0
+        "pk_dim_organization": 397,
+        "freq": 21,
+        "perc": 52.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 1191,
-        "freq": 6,
-        "perc": 23.0
+        "pk_dim_organization": 397,
+        "freq": 8,
+        "perc": 20.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 1191,
-        "freq": 5,
-        "perc": 19.0
+        "pk_dim_organization": 397,
+        "freq": 10,
+        "perc": 25.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 1191,
-        "freq": 2,
-        "perc": 8.0
+        "pk_dim_organization": 397,
+        "freq": 1,
+        "perc": 2.0
       }
     ]
   }

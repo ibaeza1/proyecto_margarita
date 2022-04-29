@@ -1,21 +1,21 @@
 {
-  "organization": "PUMA",
-  "idOrganization": 216,
-  "date": "26/04/2022",
-  "period": "Q4 2021",
+  "organization": "Kuehne+Nagel Brasil",
+  "idOrganization": 806,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 50,
-    "percActivation": 80,
-    "numSteps": 14092749.0,
-    "numCalories": 141509.0,
-    "bettercoins": 125687.0,
-    "coverage": 6146677,
-    "percBettercoins": 0.943,
-    "numDonations": 395.0,
-    "numCauses": 6,
-    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
-    "level": "UltimateGiver",
-    "perc_level": 8.0
+    "numSuscribers": 699,
+    "percActivation": 42,
+    "numSteps": 52652825.0,
+    "numCalories": 1175179.0,
+    "bettercoins": 568969.0,
+    "coverage": 0,
+    "percBettercoins": 0.768,
+    "numDonations": 1457.0,
+    "numCauses": 8,
+    "message": "Están dentro de las 10 empresas que más han quemado calorías. Tu equipo es uno de los más activos y su impacto es el reflejo de su esfuerzo.",
+    "level": "Giver",
+    "perc_level": 6.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      40,
-      39,
-      240,
-      0,
+      299,
+      66,
+      148,
+      1,
       0
     ],
     "sugestedValue": [
-      50,
+      699,
       180,
       420,
       10,
       1
     ],
     "achievedPercentage": [
-      80,
-      21,
-      71,
-      3,
-      76
+      42,
+      37,
+      44,
+      13,
+      50
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 131,
+      "quantity": 137,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 50,
+      "quantity": 96,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,21 +83,25 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 199,
+      "quantity": 1175,
       "cause": [
         "Feed a child in Venezuela",
         "Against child malnutrition in Haiti",
-        "Chile's first food bank"
+        "Chile's first food bank",
+        "Support Hospital Pequeno Príncipe",
+        "Whoever is hungry is in a hurry"
       ],
       "idCause": [
         13,
         20,
-        21
+        21,
+        29,
+        30
       ],
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 15,
+      "quantity": 49,
       "cause": [
         "Let's support Ukraine"
       ],
@@ -133,12 +137,12 @@
       {
         "nameBenefit": "Atención médica en línea 24/7",
         "idBenefit": 4,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Consulta psicológica en línea",
         "idBenefit": 5,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Consulta nutricionista en línea",
@@ -148,59 +152,59 @@
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
         "idBenefit": 7,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Educación de bienestar",
         "idBenefit": 8,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Entrenamiento en casa",
         "idBenefit": 9,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Meditación y bienestar",
         "idBenefit": 10,
-        "isIncluded": true
+        "isIncluded": false
       }
     ]
   },
   "activities": {
-    "numSteps": 9395,
-    "message_year": "Tu organización ha recorrido el 44% de la Muralla China. ¡Le faltan 11.604 kilómetros para recorrerla completa!",
-    "donations": "199",
-    "min_meditation": 194.0,
-    "routine_activity": "583"
+    "numSteps": 35101,
+    "message_year": "Tu organización ha recorrido el 87% de una vuelta al mundo. ¡Le faltan 4.973 kilómetros para dar una vuelta completa!",
+    "donations": "1175",
+    "min_meditation": 3950.0,
+    "routine_activity": "5894"
   },
-  "manual_habits": 5,
+  "manual_habits": 134,
   "bettertogether": {
-    "total": 28,
+    "total": 197,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 216,
-        "freq": 13,
-        "perc": 46.0
+        "pk_dim_organization": 806,
+        "freq": 113,
+        "perc": 57.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 216,
-        "freq": 7,
-        "perc": 25.0
+        "pk_dim_organization": 806,
+        "freq": 18,
+        "perc": 9.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 216,
-        "freq": 6,
-        "perc": 21.0
+        "pk_dim_organization": 806,
+        "freq": 56,
+        "perc": 28.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 216,
-        "freq": 2,
-        "perc": 7.0
+        "pk_dim_organization": 806,
+        "freq": 10,
+        "perc": 5.0
       }
     ]
   }

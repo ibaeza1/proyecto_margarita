@@ -1,21 +1,21 @@
 {
-  "organization": "Rubén Martínez",
-  "idOrganization": 895,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "Dirección de Rec. HC",
+  "idOrganization": 649,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 360,
-    "percActivation": 11,
-    "numSteps": 3973647.0,
-    "numCalories": 2767.0,
-    "bettercoins": 41850.0,
-    "coverage": 4917206,
-    "percBettercoins": 0.602,
-    "numDonations": 84.0,
+    "numSuscribers": 289,
+    "percActivation": 53,
+    "numSteps": 15584332.0,
+    "numCalories": 187624.0,
+    "bettercoins": 151237.0,
+    "coverage": 12666075,
+    "percBettercoins": 0.633,
+    "numDonations": 319.0,
     "numCauses": 6,
     "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
-    "level": "Rookie",
-    "perc_level": 97.0
+    "level": "Giver",
+    "perc_level": 10.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      40,
-      2,
-      113,
+      156,
+      15,
+      72,
       0,
       0
     ],
     "sugestedValue": [
-      360,
+      289,
       180,
       420,
       10,
       1
     ],
     "achievedPercentage": [
-      11,
-      1,
-      33,
+      53,
+      8,
+      21,
       0,
-      40
+      16
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 35,
+      "quantity": 37,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 14,
+      "quantity": 51,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,28 +83,26 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 34,
+      "quantity": 231,
       "cause": [
         "Feed a child in Venezuela",
         "Against child malnutrition in Haiti",
-        "Chile's first food bank"
+        "Chile's first food bank",
+        "Seniors deserve it"
       ],
       "idCause": [
         13,
         20,
-        21
+        21,
+        28
       ],
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 1,
-      "cause": [
-        "Let's support Ukraine"
-      ],
-      "idCause": [
-        33
-      ],
-      "hasDonation": true
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
     },
     "Generic": {
       "quantity": 0,
@@ -143,7 +141,7 @@
       {
         "nameBenefit": "Consulta nutricionista en línea",
         "idBenefit": 6,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
@@ -153,12 +151,12 @@
       {
         "nameBenefit": "Educación de bienestar",
         "idBenefit": 8,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Entrenamiento en casa",
         "idBenefit": 9,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Meditación y bienestar",
@@ -168,27 +166,39 @@
     ]
   },
   "activities": {
-    "numSteps": 2649,
-    "message_year": "Tu organización ha recorrido el 88% del camino entre Santiago y Río de Janeiro. ¡Le faltan 350 kilómetros para llegar!",
-    "donations": "34",
-    "min_meditation": 0.0,
-    "routine_activity": "36"
+    "numSteps": 10389,
+    "message_year": "Tu organización ha recorrido el 49% de la Muralla China. ¡Le faltan 10.610 kilómetros para recorrerla completa!",
+    "donations": "231",
+    "min_meditation": 189.0,
+    "routine_activity": "760"
   },
-  "manual_habits": 6,
+  "manual_habits": 17,
   "bettertogether": {
-    "total": 12,
+    "total": 43,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 895,
-        "freq": 6,
-        "perc": 50.0
+        "pk_dim_organization": 649,
+        "freq": 30,
+        "perc": 70.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 895,
-        "freq": 6,
-        "perc": 50.0
+        "pk_dim_organization": 649,
+        "freq": 8,
+        "perc": 19.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 649,
+        "freq": 4,
+        "perc": 9.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 649,
+        "freq": 1,
+        "perc": 2.0
       }
     ]
   }

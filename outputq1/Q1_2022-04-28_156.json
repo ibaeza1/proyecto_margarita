@@ -1,21 +1,21 @@
 {
-  "organization": "CGE",
-  "idOrganization": 533,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "OLX Autos",
+  "idOrganization": 156,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 1309,
-    "percActivation": 42,
-    "numSteps": 109290548.0,
-    "numCalories": 1626622.0,
-    "bettercoins": 1021142.0,
-    "coverage": 93388814,
-    "percBettercoins": 0.801,
-    "numDonations": 2727.0,
+    "numSuscribers": 574,
+    "percActivation": 45,
+    "numSteps": 28419899.0,
+    "numCalories": 350140.0,
+    "bettercoins": 279159.0,
+    "coverage": 24760056,
+    "percBettercoins": 0.777,
+    "numDonations": 723.0,
     "numCauses": 6,
-    "message": "Están dentro de las 10 empresas que más  cobertura de seguro de vida han acumulado. Su protección financiera es tranquilidad para ellos y sus seres queridos. ",
-    "level": "Giver",
-    "perc_level": 21.0
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "level": "SuperGiver",
+    "perc_level": 8.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      556,
-      34,
-      149,
+      261,
+      18,
+      98,
       0,
       0
     ],
     "sugestedValue": [
-      1309,
+      574,
       180,
       420,
       10,
       1
     ],
     "achievedPercentage": [
-      42,
-      19,
-      44,
-      5,
-      42
+      45,
+      10,
+      29,
+      0,
+      26
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 715,
+      "quantity": 152,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 726,
+      "quantity": 165,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,7 +83,7 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 1244,
+      "quantity": 388,
       "cause": [
         "Feed a child in Venezuela",
         "Against child malnutrition in Haiti",
@@ -97,7 +97,7 @@
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 42,
+      "quantity": 18,
       "cause": [
         "Let's support Ukraine"
       ],
@@ -168,39 +168,39 @@
     ]
   },
   "activities": {
-    "numSteps": 72860,
-    "message_year": "Tu organización ha recorrido el 18% del camino entre la Tierra y la Luna. ¡Le faltan 311.539 kilómetros para llegar!",
-    "donations": "1244",
-    "min_meditation": 3444.0,
-    "routine_activity": "6193"
+    "numSteps": 18946,
+    "message_year": "Tu organización ha recorrido el 90% de la Muralla China. ¡Le faltan 2.053 kilómetros para recorrerla completa!",
+    "donations": "388",
+    "min_meditation": 99.0,
+    "routine_activity": "836"
   },
-  "manual_habits": 87,
+  "manual_habits": 13,
   "bettertogether": {
-    "total": 259,
+    "total": 83,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 533,
-        "freq": 135,
-        "perc": 52.0
+        "pk_dim_organization": 156,
+        "freq": 57,
+        "perc": 69.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 533,
-        "freq": 47,
-        "perc": 18.0
+        "pk_dim_organization": 156,
+        "freq": 10,
+        "perc": 12.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 533,
-        "freq": 63,
-        "perc": 24.0
+        "pk_dim_organization": 156,
+        "freq": 13,
+        "perc": 16.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 533,
-        "freq": 14,
-        "perc": 5.0
+        "pk_dim_organization": 156,
+        "freq": 3,
+        "perc": 4.0
       }
     ]
   }

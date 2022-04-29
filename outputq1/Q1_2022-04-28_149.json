@@ -1,20 +1,20 @@
 {
-  "organization": "BIONET",
-  "idOrganization": 438,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "KOMAX",
+  "idOrganization": 149,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 512,
-    "percActivation": 36,
-    "numSteps": 33428606.0,
-    "numCalories": 176141.0,
-    "bettercoins": 289388.0,
-    "coverage": 28375483,
-    "percBettercoins": 0.798,
-    "numDonations": 770.0,
+    "numSuscribers": 1097,
+    "percActivation": 52,
+    "numSteps": 148633099.0,
+    "numCalories": 1567473.0,
+    "bettercoins": 1304274.0,
+    "coverage": 120936121,
+    "percBettercoins": 0.828,
+    "numDonations": 3601.0,
     "numCauses": 6,
-    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
-    "level": "SuperGiver",
+    "message": "Están dentro de las 10 empresas que más  cobertura de seguro de vida han acumulado. Su protección financiera es tranquilidad para ellos y sus seres queridos. ",
+    "level": "UltimateGiver",
     "perc_level": 5.0
   },
   "vision360": {
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      185,
-      14,
-      122,
+      581,
+      31,
+      176,
       0,
       0
     ],
     "sugestedValue": [
-      512,
+      1097,
       180,
       420,
       10,
       1
     ],
     "achievedPercentage": [
-      36,
-      8,
-      36,
-      6,
-      34
+      52,
+      17,
+      52,
+      0,
+      49
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 241,
+      "quantity": 1161,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 145,
+      "quantity": 1070,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,7 +83,7 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 365,
+      "quantity": 1286,
       "cause": [
         "Feed a child in Venezuela",
         "Against child malnutrition in Haiti",
@@ -97,7 +97,7 @@
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 19,
+      "quantity": 84,
       "cause": [
         "Let's support Ukraine"
       ],
@@ -168,39 +168,39 @@
     ]
   },
   "activities": {
-    "numSteps": 22285,
-    "message_year": "Tu organización ha recorrido el 55% de una vuelta al mundo. ¡Le faltan 17.789 kilómetros para dar una vuelta completa!",
-    "donations": "365",
-    "min_meditation": 1547.0,
-    "routine_activity": "1184"
+    "numSteps": 99088,
+    "message_year": "Tu organización ha recorrido el 25% del camino entre la Tierra y la Luna. ¡Le faltan 285.311 kilómetros para llegar!",
+    "donations": "1286",
+    "min_meditation": 521.0,
+    "routine_activity": "5181"
   },
-  "manual_habits": 16,
+  "manual_habits": 42,
   "bettertogether": {
-    "total": 84,
+    "total": 251,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 438,
-        "freq": 53,
-        "perc": 63.0
+        "pk_dim_organization": 149,
+        "freq": 87,
+        "perc": 35.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 438,
-        "freq": 23,
-        "perc": 27.0
+        "pk_dim_organization": 149,
+        "freq": 109,
+        "perc": 43.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 438,
-        "freq": 7,
-        "perc": 8.0
+        "pk_dim_organization": 149,
+        "freq": 40,
+        "perc": 16.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 438,
-        "freq": 1,
-        "perc": 1.0
+        "pk_dim_organization": 149,
+        "freq": 15,
+        "perc": 6.0
       }
     ]
   }

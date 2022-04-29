@@ -1,21 +1,21 @@
 {
-  "organization": "BNamericas",
-  "idOrganization": 230,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "ABASTIBLE",
+  "idOrganization": 295,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 168,
-    "percActivation": 66,
-    "numSteps": 23755725.0,
-    "numCalories": 294508.0,
-    "bettercoins": 223940.0,
-    "coverage": 18070905,
-    "percBettercoins": 0.774,
-    "numDonations": 578.0,
-    "numCauses": 6,
-    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "numSuscribers": 1266,
+    "percActivation": 40,
+    "numSteps": 93055652.0,
+    "numCalories": 1323009.0,
+    "bettercoins": 848937.0,
+    "coverage": 79937673,
+    "percBettercoins": 0.75,
+    "numDonations": 2121.0,
+    "numCauses": 1,
+    "message": "Están dentro de las 10 empresas que más  cobertura de seguro de vida han acumulado. Su protección financiera es tranquilidad para ellos y sus seres queridos. ",
     "level": "SuperGiver",
-    "perc_level": 12.0
+    "perc_level": 6.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      111,
-      34,
-      170,
+      512,
+      29,
+      127,
       0,
       0
     ],
     "sugestedValue": [
-      168,
+      1266,
       180,
-      420,
+      336,
       10,
       1
     ],
     "achievedPercentage": [
-      66,
-      19,
-      50,
-      8,
-      47
+      40,
+      16,
+      37,
+      4,
+      33
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,54 +63,38 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 141,
-      "cause": [
-        "Fight the water crisis"
-      ],
-      "idCause": [
-        17
-      ],
-      "hasDonation": true
-    },
-    "Arboles": {
-      "quantity": 161,
-      "cause": [
-        "Trees to save the future"
-      ],
-      "idCause": [
-        18
-      ],
-      "hasDonation": true
-    },
-    "Comida": {
-      "quantity": 264,
-      "cause": [
-        "Feed a child in Venezuela",
-        "Against child malnutrition in Haiti",
-        "Chile's first food bank"
-      ],
-      "idCause": [
-        13,
-        20,
-        21
-      ],
-      "hasDonation": true
-    },
-    "Ucrania": {
-      "quantity": 12,
-      "cause": [
-        "Let's support Ukraine"
-      ],
-      "idCause": [
-        33
-      ],
-      "hasDonation": true
-    },
-    "Generic": {
       "quantity": 0,
       "cause": [],
       "idCause": [],
       "hasDonation": false
+    },
+    "Arboles": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Comida": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Ucrania": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
+    },
+    "Generic": {
+      "quantity": 2121,
+      "cause": [
+        "Meals to families and communities in need of food"
+      ],
+      "idCause": [
+        23
+      ],
+      "hasDonation": true
     }
   },
   "benefits": {
@@ -143,7 +127,7 @@
       {
         "nameBenefit": "Consulta nutricionista en línea",
         "idBenefit": 6,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
@@ -168,39 +152,39 @@
     ]
   },
   "activities": {
-    "numSteps": 15837,
-    "message_year": "Tu organización ha recorrido el 75% de la Muralla China. ¡Le faltan 5.162 kilómetros para recorrerla completa!",
-    "donations": "264",
-    "min_meditation": 1048.0,
-    "routine_activity": "1103"
+    "numSteps": 62037,
+    "message_year": "Tu organización ha recorrido el 16% del camino entre la Tierra y la Luna. ¡Le faltan 322.362 kilómetros para llegar!",
+    "donations": "0",
+    "min_meditation": 2759.0,
+    "routine_activity": "4664"
   },
-  "manual_habits": 19,
+  "manual_habits": 54,
   "bettertogether": {
-    "total": 65,
+    "total": 223,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 230,
-        "freq": 40,
-        "perc": 62.0
+        "pk_dim_organization": 295,
+        "freq": 126,
+        "perc": 57.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 230,
-        "freq": 10,
-        "perc": 15.0
+        "pk_dim_organization": 295,
+        "freq": 51,
+        "perc": 23.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 230,
-        "freq": 13,
-        "perc": 20.0
+        "pk_dim_organization": 295,
+        "freq": 37,
+        "perc": 17.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 230,
-        "freq": 2,
-        "perc": 3.0
+        "pk_dim_organization": 295,
+        "freq": 9,
+        "perc": 4.0
       }
     ]
   }

@@ -1,21 +1,21 @@
 {
-  "organization": "ICATU Seguros",
-  "idOrganization": 4397,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "PUMA",
+  "idOrganization": 216,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 2172,
-    "percActivation": 36,
-    "numSteps": 8105649.0,
-    "numCalories": 61060.0,
-    "bettercoins": 189157.0,
-    "coverage": 0,
-    "percBettercoins": 0.154,
-    "numDonations": 97.0,
-    "numCauses": 5,
+    "numSuscribers": 50,
+    "percActivation": 80,
+    "numSteps": 14115288.0,
+    "numCalories": 141509.0,
+    "bettercoins": 125690.0,
+    "coverage": 6146677,
+    "percBettercoins": 0.943,
+    "numDonations": 395.0,
+    "numCauses": 6,
     "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
-    "level": "Rookie",
-    "perc_level": 100.0
+    "level": "UltimateGiver",
+    "perc_level": 8.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      794,
       40,
-      106,
+      39,
+      240,
       0,
       0
     ],
     "sugestedValue": [
-      2172,
+      50,
       180,
-      420,
+      336,
       10,
       1
     ],
     "achievedPercentage": [
-      36,
-      22,
-      31,
-      2,
-      37
+      80,
+      21,
+      71,
+      3,
+      76
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 13,
+      "quantity": 131,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 10,
+      "quantity": 50,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,19 +83,21 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 44,
+      "quantity": 199,
       "cause": [
-        "Support Hospital Pequeno Príncipe",
-        "Whoever is hungry is in a hurry"
+        "Feed a child in Venezuela",
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank"
       ],
       "idCause": [
-        29,
-        30
+        13,
+        20,
+        21
       ],
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 30,
+      "quantity": 15,
       "cause": [
         "Let's support Ukraine"
       ],
@@ -131,12 +133,12 @@
       {
         "nameBenefit": "Atención médica en línea 24/7",
         "idBenefit": 4,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Consulta psicológica en línea",
         "idBenefit": 5,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Consulta nutricionista en línea",
@@ -146,35 +148,60 @@
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
         "idBenefit": 7,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Educación de bienestar",
         "idBenefit": 8,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Entrenamiento en casa",
         "idBenefit": 9,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Meditación y bienestar",
         "idBenefit": 10,
-        "isIncluded": false
+        "isIncluded": true
       }
     ]
   },
   "activities": {
-    "numSteps": 5403,
-    "message_year": "Tu organización ha recorrido el 25% de la Muralla China. ¡Le faltan 15.596 kilómetros para recorrerla completa!",
-    "donations": "44",
-    "min_meditation": 63.0,
-    "routine_activity": "400"
+    "numSteps": 9410,
+    "message_year": "Tu organización ha recorrido el 44% de la Muralla China. ¡Le faltan 11.589 kilómetros para recorrerla completa!",
+    "donations": "199",
+    "min_meditation": 194.0,
+    "routine_activity": "583"
   },
-  "manual_habits": 112,
+  "manual_habits": 5,
   "bettertogether": {
-    "total": 0,
-    "clusters": []
+    "total": 28,
+    "clusters": [
+      {
+        "labels": "Principiantes",
+        "pk_dim_organization": 216,
+        "freq": 13,
+        "perc": 46.0
+      },
+      {
+        "labels": "Caminantes",
+        "pk_dim_organization": 216,
+        "freq": 7,
+        "perc": 25.0
+      },
+      {
+        "labels": "Amateurs",
+        "pk_dim_organization": 216,
+        "freq": 6,
+        "perc": 21.0
+      },
+      {
+        "labels": "Atletas",
+        "pk_dim_organization": 216,
+        "freq": 2,
+        "perc": 7.0
+      }
+    ]
   }
 }

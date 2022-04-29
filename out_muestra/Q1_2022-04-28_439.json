@@ -1,21 +1,21 @@
 {
-  "organization": "Seguros Falabella",
-  "idOrganization": 865,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "3G OFFICE",
+  "idOrganization": 439,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 524,
-    "percActivation": 24,
-    "numSteps": 12360812.0,
-    "numCalories": 139780.0,
-    "bettercoins": 87901.0,
-    "coverage": 7084506,
-    "percBettercoins": 0.43,
-    "numDonations": 126.0,
-    "numCauses": 2,
+    "numSuscribers": 7,
+    "percActivation": 100,
+    "numSteps": 3445259.0,
+    "numCalories": 76732.0,
+    "bettercoins": 35996.0,
+    "coverage": 3516014,
+    "percBettercoins": 0.892,
+    "numDonations": 107.0,
+    "numCauses": 5,
     "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
-    "level": "Rookie",
-    "perc_level": 98.0
+    "level": "SuperGiver",
+    "perc_level": 43.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      130,
-      54,
-      157,
+      7,
+      147,
+      386,
       0,
-      0
+      1
     ],
     "sugestedValue": [
-      524,
+      7,
       180,
-      420,
+      336,
       10,
       1
     ],
     "achievedPercentage": [
-      24,
-      30,
-      46,
-      3,
-      35
+      100,
+      81,
+      100,
+      7,
+      100
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,40 +63,52 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Arboles": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Comida": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Ucrania": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Generic": {
-      "quantity": 126,
+      "quantity": 49,
       "cause": [
-        "Inclusive financial education",
-        "Education for all children"
+        "Fight the water crisis"
       ],
       "idCause": [
-        31,
-        32
+        17
       ],
       "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 17,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 40,
+      "cause": [
+        "Feed a child in Venezuela",
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        13,
+        21
+      ],
+      "hasDonation": true
+    },
+    "Ucrania": {
+      "quantity": 1,
+      "cause": [
+        "Let's support Ukraine"
+      ],
+      "idCause": [
+        33
+      ],
+      "hasDonation": true
+    },
+    "Generic": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
     }
   },
   "benefits": {
@@ -129,12 +141,12 @@
       {
         "nameBenefit": "Consulta nutricionista en línea",
         "idBenefit": 6,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
         "idBenefit": 7,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Educación de bienestar",
@@ -144,7 +156,7 @@
       {
         "nameBenefit": "Entrenamiento en casa",
         "idBenefit": 9,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Meditación y bienestar",
@@ -154,39 +166,33 @@
     ]
   },
   "activities": {
-    "numSteps": 8240,
-    "message_year": "Tu organización ha recorrido el 39% de la Muralla China. ¡Le faltan 12.759 kilómetros para recorrerla completa!",
-    "donations": "0",
-    "min_meditation": 113.0,
-    "routine_activity": "600"
+    "numSteps": 2296,
+    "message_year": "Tu organización ha recorrido el 76% del camino entre Santiago y Río de Janeiro. ¡Le faltan 703 kilómetros para llegar!",
+    "donations": "40",
+    "min_meditation": 65.0,
+    "routine_activity": "314"
   },
-  "manual_habits": 13,
+  "manual_habits": 2,
   "bettertogether": {
-    "total": 46,
+    "total": 7,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 865,
-        "freq": 28,
-        "perc": 61.0
+        "pk_dim_organization": 439,
+        "freq": 3,
+        "perc": 43.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 865,
-        "freq": 6,
-        "perc": 13.0
+        "pk_dim_organization": 439,
+        "freq": 1,
+        "perc": 14.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 865,
-        "freq": 9,
-        "perc": 20.0
-      },
-      {
-        "labels": "Atletas",
-        "pk_dim_organization": 865,
+        "pk_dim_organization": 439,
         "freq": 3,
-        "perc": 7.0
+        "perc": 43.0
       }
     ]
   }

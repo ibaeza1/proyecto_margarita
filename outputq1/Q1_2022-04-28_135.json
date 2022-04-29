@@ -1,19 +1,19 @@
 {
-  "organization": "CHEIL",
-  "idOrganization": 204,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "ECOLAB",
+  "idOrganization": 135,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 151,
-    "percActivation": 45,
-    "numSteps": 11580769.0,
-    "numCalories": 162219.0,
-    "bettercoins": 121112.0,
-    "coverage": 7828419,
-    "percBettercoins": 0.798,
-    "numDonations": 322.0,
+    "numSuscribers": 560,
+    "percActivation": 38,
+    "numSteps": 36163649.0,
+    "numCalories": 1989183.0,
+    "bettercoins": 363956.0,
+    "coverage": 34558177,
+    "percBettercoins": 0.912,
+    "numDonations": 1107.0,
     "numCauses": 6,
-    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "message": "Están dentro de las 10 empresas que más han quemado calorías. Tu equipo es uno de los más activos y su impacto es el reflejo de su esfuerzo.",
     "level": "UltimateGiver",
     "perc_level": 6.0
   },
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      68,
-      31,
-      152,
-      2,
+      218,
+      42,
+      127,
+      0,
       0
     ],
     "sugestedValue": [
-      151,
+      560,
       180,
       420,
       10,
       1
     ],
     "achievedPercentage": [
-      45,
-      17,
-      45,
-      22,
-      42
+      38,
+      23,
+      37,
+      3,
+      39
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 69,
+      "quantity": 240,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 109,
+      "quantity": 190,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,7 +83,7 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 141,
+      "quantity": 648,
       "cause": [
         "Feed a child in Venezuela",
         "Against child malnutrition in Haiti",
@@ -97,7 +97,7 @@
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 3,
+      "quantity": 29,
       "cause": [
         "Let's support Ukraine"
       ],
@@ -143,7 +143,7 @@
       {
         "nameBenefit": "Consulta nutricionista en línea",
         "idBenefit": 6,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
@@ -168,39 +168,39 @@
     ]
   },
   "activities": {
-    "numSteps": 7720,
-    "message_year": "Tu organización ha recorrido el 36% de la Muralla China. ¡Le faltan 13.279 kilómetros para recorrerla completa!",
-    "donations": "141",
-    "min_meditation": 1666.0,
-    "routine_activity": "698"
+    "numSteps": 24109,
+    "message_year": "Tu organización ha recorrido el 60% de una vuelta al mundo. ¡Le faltan 15.965 kilómetros para dar una vuelta completa!",
+    "donations": "648",
+    "min_meditation": 905.0,
+    "routine_activity": "1838"
   },
-  "manual_habits": 8,
+  "manual_habits": 9,
   "bettertogether": {
-    "total": 25,
+    "total": 82,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 204,
-        "freq": 13,
+        "pk_dim_organization": 135,
+        "freq": 43,
         "perc": 52.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 204,
-        "freq": 7,
-        "perc": 28.0
+        "pk_dim_organization": 135,
+        "freq": 21,
+        "perc": 26.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 204,
-        "freq": 4,
-        "perc": 16.0
+        "pk_dim_organization": 135,
+        "freq": 14,
+        "perc": 17.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 204,
-        "freq": 1,
-        "perc": 4.0
+        "pk_dim_organization": 135,
+        "freq": 4,
+        "perc": 5.0
       }
     ]
   }

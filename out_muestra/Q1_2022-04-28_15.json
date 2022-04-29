@@ -1,21 +1,21 @@
 {
-  "organization": "SANTANDER",
-  "idOrganization": 115,
-  "date": "26/04/2022",
-  "period": "Q4 2021",
+  "organization": "Betterfly",
+  "idOrganization": 15,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 9771,
-    "percActivation": 42,
-    "numSteps": 467257875.0,
-    "numCalories": 6281199.0,
-    "bettercoins": 4903784.0,
-    "coverage": 446342073,
-    "percBettercoins": 0.807,
-    "numDonations": 13196.0,
-    "numCauses": 1,
+    "numSuscribers": 606,
+    "percActivation": 93,
+    "numSteps": 166738287.0,
+    "numCalories": 2916942.0,
+    "bettercoins": 1851329.0,
+    "coverage": 131008405,
+    "percBettercoins": 0.908,
+    "numDonations": 9232.0,
+    "numCauses": 9,
     "message": "Están dentro de las 10 empresas que más ha meditado. Mentes en calma, ideas brillantes. ",
     "level": "UltimateGiver",
-    "perc_level": 5.0
+    "perc_level": 10.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      4178,
-      16,
-      84,
-      0,
-      0
+      567,
+      95,
+      355,
+      7,
+      1
     ],
     "sugestedValue": [
-      9771,
+      606,
       180,
-      420,
+      336,
       10,
       1
     ],
     "achievedPercentage": [
-      42,
-      9,
-      25,
-      3,
-      24
+      93,
+      53,
+      100,
+      75,
+      100
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,38 +63,60 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Arboles": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Comida": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Ucrania": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Generic": {
-      "quantity": 13167,
+      "quantity": 2449,
       "cause": [
-        "Santander supports education"
+        "Fight the water crisis"
       ],
       "idCause": [
-        19
+        17
       ],
       "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 2823,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 3588,
+      "cause": [
+        "Feed a child in Venezuela",
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank",
+        "Help a senior",
+        "Support Hospital Pequeno Príncipe",
+        "Whoever is hungry is in a hurry"
+      ],
+      "idCause": [
+        13,
+        20,
+        21,
+        26,
+        29,
+        30
+      ],
+      "hasDonation": true
+    },
+    "Ucrania": {
+      "quantity": 372,
+      "cause": [
+        "Let's support Ukraine"
+      ],
+      "idCause": [
+        33
+      ],
+      "hasDonation": true
+    },
+    "Generic": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
     }
   },
   "benefits": {
@@ -132,7 +154,7 @@
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
         "idBenefit": 7,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Educación de bienestar",
@@ -152,39 +174,39 @@
     ]
   },
   "activities": {
-    "numSteps": 311505,
-    "message_year": "Tu organización ha recorrido el 81% del camino entre la Tierra y la Luna. ¡Le faltan 72.894 kilómetros para llegar!",
-    "donations": 0,
-    "min_meditation": 19517.0,
-    "routine_activity": "23633"
+    "numSteps": 111158,
+    "message_year": "Tu organización ha recorrido el 28% del camino entre la Tierra y la Luna. ¡Le faltan 273.241 kilómetros para llegar!",
+    "donations": "3588",
+    "min_meditation": 35198.0,
+    "routine_activity": "13060"
   },
-  "manual_habits": 257,
+  "manual_habits": 378,
   "bettertogether": {
-    "total": 1162,
+    "total": 498,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 115,
-        "freq": 707,
-        "perc": 61.0
+        "pk_dim_organization": 15,
+        "freq": 227,
+        "perc": 46.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 115,
-        "freq": 192,
-        "perc": 17.0
+        "pk_dim_organization": 15,
+        "freq": 77,
+        "perc": 15.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 115,
-        "freq": 200,
-        "perc": 17.0
+        "pk_dim_organization": 15,
+        "freq": 164,
+        "perc": 33.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 115,
-        "freq": 63,
-        "perc": 5.0
+        "pk_dim_organization": 15,
+        "freq": 30,
+        "perc": 6.0
       }
     ]
   }

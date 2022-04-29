@@ -1,21 +1,21 @@
 {
-  "organization": "ABASTIBLE",
-  "idOrganization": 295,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "HR Burô",
+  "idOrganization": 246,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 1266,
-    "percActivation": 40,
-    "numSteps": 92981835.0,
-    "numCalories": 1319303.0,
-    "bettercoins": 848937.0,
-    "coverage": 79893935,
-    "percBettercoins": 0.75,
-    "numDonations": 2121.0,
-    "numCauses": 1,
-    "message": "Están dentro de las 10 empresas que más  cobertura de seguro de vida han acumulado. Su protección financiera es tranquilidad para ellos y sus seres queridos. ",
+    "numSuscribers": 102,
+    "percActivation": 67,
+    "numSteps": 10896166.0,
+    "numCalories": 73532.0,
+    "bettercoins": 105352.0,
+    "coverage": 9444103,
+    "percBettercoins": 0.817,
+    "numDonations": 287.0,
+    "numCauses": 6,
+    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
     "level": "SuperGiver",
-    "perc_level": 6.0
+    "perc_level": 12.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      512,
-      29,
-      127,
+      69,
+      18,
+      132,
       0,
       0
     ],
     "sugestedValue": [
-      1266,
+      102,
       180,
       420,
       10,
       1
     ],
     "achievedPercentage": [
-      40,
-      16,
-      37,
-      4,
-      33
+      67,
+      10,
+      39,
+      0,
+      38
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,38 +63,54 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Arboles": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Comida": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Ucrania": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
-    },
-    "Generic": {
-      "quantity": 2121,
+      "quantity": 127,
       "cause": [
-        "Meals to families and communities in need of food"
+        "Fight the water crisis"
       ],
       "idCause": [
-        23
+        17
       ],
       "hasDonation": true
+    },
+    "Arboles": {
+      "quantity": 59,
+      "cause": [
+        "Trees to save the future"
+      ],
+      "idCause": [
+        18
+      ],
+      "hasDonation": true
+    },
+    "Comida": {
+      "quantity": 97,
+      "cause": [
+        "Feed a child in Venezuela",
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        13,
+        20,
+        21
+      ],
+      "hasDonation": true
+    },
+    "Ucrania": {
+      "quantity": 4,
+      "cause": [
+        "Let's support Ukraine"
+      ],
+      "idCause": [
+        33
+      ],
+      "hasDonation": true
+    },
+    "Generic": {
+      "quantity": 0,
+      "cause": [],
+      "idCause": [],
+      "hasDonation": false
     }
   },
   "benefits": {
@@ -127,7 +143,7 @@
       {
         "nameBenefit": "Consulta nutricionista en línea",
         "idBenefit": 6,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
@@ -152,39 +168,39 @@
     ]
   },
   "activities": {
-    "numSteps": 61987,
-    "message_year": "Tu organización ha recorrido el 16% del camino entre la Tierra y la Luna. ¡Le faltan 322.412 kilómetros para llegar!",
-    "donations": "0",
-    "min_meditation": 2759.0,
-    "routine_activity": "4653"
+    "numSteps": 7264,
+    "message_year": "Tu organización ha recorrido el 34% de la Muralla China. ¡Le faltan 13.735 kilómetros para recorrerla completa!",
+    "donations": "97",
+    "min_meditation": 4.0,
+    "routine_activity": "390"
   },
-  "manual_habits": 54,
+  "manual_habits": 14,
   "bettertogether": {
-    "total": 223,
+    "total": 33,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 295,
-        "freq": 126,
-        "perc": 57.0
+        "pk_dim_organization": 246,
+        "freq": 25,
+        "perc": 76.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 295,
-        "freq": 51,
-        "perc": 23.0
+        "pk_dim_organization": 246,
+        "freq": 6,
+        "perc": 18.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 295,
-        "freq": 37,
-        "perc": 17.0
+        "pk_dim_organization": 246,
+        "freq": 1,
+        "perc": 3.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 295,
-        "freq": 9,
-        "perc": 4.0
+        "pk_dim_organization": 246,
+        "freq": 1,
+        "perc": 3.0
       }
     ]
   }

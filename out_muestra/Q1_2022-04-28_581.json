@@ -1,21 +1,21 @@
 {
-  "organization": "K+N Arg & Uru",
-  "idOrganization": 696,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "PROMET",
+  "idOrganization": 581,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 265,
-    "percActivation": 50,
-    "numSteps": 21326672.0,
-    "numCalories": 213509.0,
-    "bettercoins": 172217.0,
-    "coverage": 0,
-    "percBettercoins": 0.84,
-    "numDonations": 482.0,
-    "numCauses": 2,
-    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
+    "numSuscribers": 988,
+    "percActivation": 47,
+    "numSteps": 100598906.0,
+    "numCalories": 222321.0,
+    "bettercoins": 793515.0,
+    "coverage": 64283247,
+    "percBettercoins": 0.586,
+    "numDonations": 1551.0,
+    "numCauses": 6,
+    "message": "Están dentro de las 10 empresas que más  cobertura de seguro de vida han acumulado. Su protección financiera es tranquilidad para ellos y sus seres queridos. ",
     "level": "Giver",
-    "perc_level": 15.0
+    "perc_level": 13.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      135,
-      25,
-      109,
+      473,
+      9,
+      166,
       0,
       0
     ],
     "sugestedValue": [
-      265,
+      988,
       180,
-      420,
+      336,
       10,
       1
     ],
     "achievedPercentage": [
-      50,
-      14,
-      32,
-      3,
-      31
+      47,
+      5,
+      49,
+      1,
+      35
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 201,
+      "quantity": 331,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 281,
+      "quantity": 310,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,16 +83,28 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
+      "quantity": 889,
+      "cause": [
+        "Feed a child in Venezuela",
+        "Against child malnutrition in Haiti",
+        "Chile's first food bank"
+      ],
+      "idCause": [
+        13,
+        20,
+        21
+      ],
+      "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 0,
-      "cause": [],
-      "idCause": [],
-      "hasDonation": false
+      "quantity": 21,
+      "cause": [
+        "Let's support Ukraine"
+      ],
+      "idCause": [
+        33
+      ],
+      "hasDonation": true
     },
     "Generic": {
       "quantity": 0,
@@ -106,27 +118,27 @@
       {
         "nameBenefit": "Seguro de vida por fallecimiento natural",
         "idBenefit": 1,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Seguro de vida adicional fallecimiento accidental",
         "idBenefit": 2,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Seguro de invalidez accidental",
         "idBenefit": 3,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Atención médica en línea 24/7",
         "idBenefit": 4,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Consulta psicológica en línea",
         "idBenefit": 5,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Consulta nutricionista en línea",
@@ -136,12 +148,12 @@
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
         "idBenefit": 7,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Educación de bienestar",
         "idBenefit": 8,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Entrenamiento en casa",
@@ -156,39 +168,39 @@
     ]
   },
   "activities": {
-    "numSteps": 14217,
-    "message_year": "Tu organización ha recorrido el 67% de la Muralla China. ¡Le faltan 6.782 kilómetros para recorrerla completa!",
-    "donations": "0",
-    "min_meditation": 562.0,
-    "routine_activity": "1539"
+    "numSteps": 67065,
+    "message_year": "Tu organización ha recorrido el 17% del camino entre la Tierra y la Luna. ¡Le faltan 317.334 kilómetros para llegar!",
+    "donations": "889",
+    "min_meditation": 689.0,
+    "routine_activity": "1525"
   },
-  "manual_habits": 18,
+  "manual_habits": 71,
   "bettertogether": {
-    "total": 47,
+    "total": 213,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 696,
-        "freq": 27,
-        "perc": 57.0
+        "pk_dim_organization": 581,
+        "freq": 84,
+        "perc": 39.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 696,
-        "freq": 11,
-        "perc": 23.0
+        "pk_dim_organization": 581,
+        "freq": 121,
+        "perc": 57.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 696,
-        "freq": 8,
-        "perc": 17.0
+        "pk_dim_organization": 581,
+        "freq": 7,
+        "perc": 3.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 696,
+        "pk_dim_organization": 581,
         "freq": 1,
-        "perc": 2.0
+        "perc": 0.0
       }
     ]
   }

@@ -1,21 +1,21 @@
 {
-  "organization": "AMICAR",
-  "idOrganization": 475,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "YOUTOPIA",
+  "idOrganization": 85,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 310,
-    "percActivation": 63,
-    "numSteps": 39780468.0,
-    "numCalories": 403578.0,
-    "bettercoins": 368491.0,
-    "coverage": 32850739,
-    "percBettercoins": 0.792,
-    "numDonations": 973.0,
+    "numSuscribers": 163,
+    "percActivation": 46,
+    "numSteps": 6457653.0,
+    "numCalories": 135973.0,
+    "bettercoins": 65480.0,
+    "coverage": 1425986,
+    "percBettercoins": 0.605,
+    "numDonations": 132.0,
     "numCauses": 6,
     "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
-    "level": "SuperGiver",
-    "perc_level": 7.0
+    "level": "UltimateGiver",
+    "perc_level": 5.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      196,
-      23,
-      146,
+      75,
+      31,
+      131,
       0,
       0
     ],
     "sugestedValue": [
-      310,
+      163,
       180,
       420,
       10,
       1
     ],
     "achievedPercentage": [
-      63,
-      12,
-      43,
+      46,
+      17,
+      39,
       0,
-      39
+      26
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 255,
+      "quantity": 27,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 337,
+      "quantity": 23,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,7 +83,7 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 377,
+      "quantity": 80,
       "cause": [
         "Feed a child in Venezuela",
         "Against child malnutrition in Haiti",
@@ -97,7 +97,7 @@
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 4,
+      "quantity": 2,
       "cause": [
         "Let's support Ukraine"
       ],
@@ -168,39 +168,39 @@
     ]
   },
   "activities": {
-    "numSteps": 26520,
-    "message_year": "Tu organización ha recorrido el 66% de una vuelta al mundo. ¡Le faltan 13.554 kilómetros para dar una vuelta completa!",
-    "donations": "377",
-    "min_meditation": 205.0,
-    "routine_activity": "1862"
+    "numSteps": 4305,
+    "message_year": "Tu organización ha recorrido el 20% de la Muralla China. ¡Le faltan 16.694 kilómetros para recorrerla completa!",
+    "donations": "80",
+    "min_meditation": 0.0,
+    "routine_activity": "337"
   },
-  "manual_habits": 8,
+  "manual_habits": 3,
   "bettertogether": {
-    "total": 96,
+    "total": 27,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 475,
-        "freq": 57,
-        "perc": 59.0
+        "pk_dim_organization": 85,
+        "freq": 12,
+        "perc": 44.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 475,
-        "freq": 21,
+        "pk_dim_organization": 85,
+        "freq": 6,
         "perc": 22.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 475,
-        "freq": 13,
-        "perc": 14.0
+        "pk_dim_organization": 85,
+        "freq": 5,
+        "perc": 19.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 475,
-        "freq": 5,
-        "perc": 5.0
+        "pk_dim_organization": 85,
+        "freq": 4,
+        "perc": 15.0
       }
     ]
   }

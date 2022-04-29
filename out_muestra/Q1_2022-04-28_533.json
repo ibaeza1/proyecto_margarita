@@ -1,21 +1,21 @@
 {
-  "organization": "SmartJob",
-  "idOrganization": 2477,
-  "date": "27/04/2022",
-  "period": "Q4 2021",
+  "organization": "CGE",
+  "idOrganization": 533,
+  "date": "28/04/2022",
+  "period": "Q1 2022",
   "summary": {
-    "numSuscribers": 79,
-    "percActivation": 49,
-    "numSteps": 3153559.0,
-    "numCalories": 35163.0,
-    "bettercoins": 28425.0,
-    "coverage": 1943730,
-    "percBettercoins": 0.58,
-    "numDonations": 55.0,
+    "numSuscribers": 1309,
+    "percActivation": 42,
+    "numSteps": 109460139.0,
+    "numCalories": 1627002.0,
+    "bettercoins": 1021142.0,
+    "coverage": 93393090,
+    "percBettercoins": 0.801,
+    "numDonations": 2727.0,
     "numCauses": 6,
-    "message": " ¡Felicitaciones por haberse embarcado en este viaje de transformación e impacto! El bienestar de tus colaboradores y la protección financiera de sus seres queridos es el beneficio más grande que le puedes entregar.",
-    "level": "Rookie",
-    "perc_level": 97.0
+    "message": "Están dentro de las 10 empresas que más  cobertura de seguro de vida han acumulado. Su protección financiera es tranquilidad para ellos y sus seres queridos. ",
+    "level": "Giver",
+    "perc_level": 21.0
   },
   "vision360": {
     "metrics": [
@@ -33,29 +33,29 @@
       "donaciones semanales por colaborador"
     ],
     "achievedValue": [
-      39,
-      51,
-      153,
-      4,
+      556,
+      34,
+      149,
+      0,
       0
     ],
     "sugestedValue": [
-      79,
+      1309,
       180,
-      420,
+      336,
       10,
       1
     ],
     "achievedPercentage": [
-      49,
-      28,
-      45,
-      47,
-      46
+      42,
+      19,
+      44,
+      5,
+      42
     ],
     "allOrganizations": [
       72,
-      18,
+      17,
       63,
       11,
       65
@@ -63,7 +63,7 @@
   },
   "impact": {
     "Agua": {
-      "quantity": 6,
+      "quantity": 715,
       "cause": [
         "Fight the water crisis"
       ],
@@ -73,7 +73,7 @@
       "hasDonation": true
     },
     "Arboles": {
-      "quantity": 8,
+      "quantity": 726,
       "cause": [
         "Trees to save the future"
       ],
@@ -83,7 +83,7 @@
       "hasDonation": true
     },
     "Comida": {
-      "quantity": 39,
+      "quantity": 1244,
       "cause": [
         "Feed a child in Venezuela",
         "Against child malnutrition in Haiti",
@@ -97,7 +97,7 @@
       "hasDonation": true
     },
     "Ucrania": {
-      "quantity": 2,
+      "quantity": 42,
       "cause": [
         "Let's support Ukraine"
       ],
@@ -143,7 +143,7 @@
       {
         "nameBenefit": "Consulta nutricionista en línea",
         "idBenefit": 6,
-        "isIncluded": true
+        "isIncluded": false
       },
       {
         "nameBenefit": "Asesoría de ahorro e inversión",
@@ -153,12 +153,12 @@
       {
         "nameBenefit": "Educación de bienestar",
         "idBenefit": 8,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Entrenamiento en casa",
         "idBenefit": 9,
-        "isIncluded": false
+        "isIncluded": true
       },
       {
         "nameBenefit": "Meditación y bienestar",
@@ -168,39 +168,39 @@
     ]
   },
   "activities": {
-    "numSteps": 2102,
-    "message_year": "Tu organización ha recorrido el 70% del camino entre Santiago y Río de Janeiro. ¡Le faltan 897 kilómetros para llegar!",
-    "donations": "39",
-    "min_meditation": 563.0,
-    "routine_activity": "257"
+    "numSteps": 72973,
+    "message_year": "Tu organización ha recorrido el 18% del camino entre la Tierra y la Luna. ¡Le faltan 311.426 kilómetros para llegar!",
+    "donations": "1244",
+    "min_meditation": 3444.0,
+    "routine_activity": "6199"
   },
-  "manual_habits": 7,
+  "manual_habits": 87,
   "bettertogether": {
-    "total": 19,
+    "total": 259,
     "clusters": [
       {
         "labels": "Principiantes",
-        "pk_dim_organization": 2477,
-        "freq": 13,
-        "perc": 68.0
+        "pk_dim_organization": 533,
+        "freq": 135,
+        "perc": 52.0
       },
       {
         "labels": "Caminantes",
-        "pk_dim_organization": 2477,
-        "freq": 3,
-        "perc": 16.0
+        "pk_dim_organization": 533,
+        "freq": 47,
+        "perc": 18.0
       },
       {
         "labels": "Amateurs",
-        "pk_dim_organization": 2477,
-        "freq": 1,
-        "perc": 5.0
+        "pk_dim_organization": 533,
+        "freq": 63,
+        "perc": 24.0
       },
       {
         "labels": "Atletas",
-        "pk_dim_organization": 2477,
-        "freq": 2,
-        "perc": 11.0
+        "pk_dim_organization": 533,
+        "freq": 14,
+        "perc": 5.0
       }
     ]
   }
